@@ -11,3 +11,5 @@
 *********
 * ![image](https://github.com/leraks/Linux/assets/67760549/f4d8e5a8-67c2-4c54-803f-b64bacab00c8)
 * DHCP - Cетевой протокол, позволяющий сетевым устройствам автоматически получать IP-адрес и другие параметры, необходимые для работы в сети TCP/IP.
+*********
+* ![image](https://github.com/leraks/Linux/assets/67760549/6d8268f3-0f63-4396-b8b4-501c21a4d79d)
