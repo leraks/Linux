@@ -14,5 +14,11 @@
 *********
 * ![image](https://github.com/leraks/Linux/assets/67760549/6d8268f3-0f63-4396-b8b4-501c21a4d79d)
 *  внешний ip-адрес шлюза (ip)
-* ![image](https://github.com/leraks/Linux/assets/67760549/c13562e8-b9d1-4489-a6bf-66e1f66c14fa)
+* ![image](https://github.com/leraks/Linux/assets/67760549/5a07ac6a-9878-434b-a657-ad37ab24ad0e)
 *  внутренний IP-адрес шлюза
+*********
+* ![image](https://github.com/leraks/Linux/assets/67760549/c18050fd-93d6-4479-bab6-90715901f130)
+* изменение ip, gw, dns
+* ![image](https://github.com/leraks/Linux/assets/67760549/31b0e2a2-9b2d-421c-9c87-ae3a053beaa8)
+* после перезагрузки данные остались
+*********
