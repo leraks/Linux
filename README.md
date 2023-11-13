@@ -54,5 +54,20 @@
 * vim ( esc + q! )
 * nano (ctrl + X В меню выбираем No)
 * joe (ctrl K + Q В меню выбираем n)
+**********
+* ![image](https://github.com/leraks/Linux/assets/67760549/7d9a49a4-d952-431b-a744-3ca61726b3a4)
+  + Поиск слова (vim)
+* ![image](https://github.com/leraks/Linux/assets/67760549/81c0b022-4c93-4ad4-ba8e-c25e1a71a70d)
+  + Замена слова (vim)
+* ![image](https://github.com/leraks/Linux/assets/67760549/e45a85bf-5bf5-4700-8cca-17148a191430)
+  + Поиск слова (nano)
+* ![image](https://github.com/leraks/Linux/assets/67760549/1311465f-bdf0-4484-877d-de584f080658)
+  + Замена слова (nano)
+* ![image](https://github.com/leraks/Linux/assets/67760549/a2c0d1f9-65bc-4aed-ad78-1dd823074362)
+  + Поиск слова (joe) ctrl G (Выбрать I)
+* ![image](https://github.com/leraks/Linux/assets/67760549/1bec528e-f921-4377-8cf3-ca82459f4a76)
+  + Замена слова  (joe) ctrl G (Выбрать R)
+
+
 
 
