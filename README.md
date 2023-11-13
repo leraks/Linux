@@ -19,7 +19,7 @@
 *********
 * ![image](https://github.com/leraks/Linux/assets/67760549/48388fab-0378-45ca-ba49-8295bb6fa5b7)
 * статический ip, gw, dns
-* ![image](https://github.com/leraks/Linux/assets/67760549/31b0e2a2-9b2d-421c-9c87-ae3a053beaa8)
+* ![image](https://github.com/leraks/Linux/assets/67760549/a0d2a335-b656-4b80-a280-b4892737ae5a)
 * после перезагрузки данные остались
 *********
 * ![image](https://github.com/leraks/Linux/assets/67760549/15bb0450-13c6-462f-8212-a6589eddbeb2)
