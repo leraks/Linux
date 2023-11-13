@@ -26,5 +26,7 @@
 * ping google
 * ![image](https://github.com/leraks/Linux/assets/67760549/7bae0f38-a559-4345-93ae-f00a70ec827f)
 * ping yandex
+* ![image](https://github.com/leraks/Linux/assets/67760549/c36b1b8d-f5f4-47d3-a874-4a4256a174d5)
+* ping 1.1.1.1
 
 
