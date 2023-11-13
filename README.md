@@ -45,10 +45,10 @@
 
 ## Part 7
 * ![image](https://github.com/leraks/Linux/assets/67760549/28b396f5-38f2-4f6c-8236-90bef5c75160)
-  + vim
+  + vim ( esc + !wq )
 * ![image](https://github.com/leraks/Linux/assets/67760549/e748d28a-bed1-4e27-a6db-871966459817)
-  + nano
+  + nano ( ctrl + W AND ctrl + X)
 * ![image](https://github.com/leraks/Linux/assets/67760549/52759887-fbba-4fda-abf6-8763edb86070)
-  + joe
+  + joe ( ctrl + B AND ctrl + Q)
 
 
