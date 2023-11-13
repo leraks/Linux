@@ -41,4 +41,12 @@
 
 ## Part 6
 ![image](https://github.com/leraks/Linux/assets/67760549/103371db-00a2-4d4c-ad98-987e4f11f0a9)
-* Настроенное время в виртуальной среде 
+* Настроенное время в виртуальной среде
+
+## Part 7
+* ![image](https://github.com/leraks/Linux/assets/67760549/28b396f5-38f2-4f6c-8236-90bef5c75160)
+  + еуче
+* ![image](https://github.com/leraks/Linux/assets/67760549/e748d28a-bed1-4e27-a6db-871966459817)
+* ![image](https://github.com/leraks/Linux/assets/67760549/52759887-fbba-4fda-abf6-8763edb86070)
+
+
