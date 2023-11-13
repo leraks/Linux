@@ -49,6 +49,10 @@
 * ![image](https://github.com/leraks/Linux/assets/67760549/e748d28a-bed1-4e27-a6db-871966459817)
   + nano ( ctrl + W AND ctrl + X)
 * ![image](https://github.com/leraks/Linux/assets/67760549/52759887-fbba-4fda-abf6-8763edb86070)
-  + joe ( ctrl + B AND ctrl + Q)
+  + joe ( ctrl K + B AND ctrl K + Q)
+**********
+* vim ( esc + q! )
+* nano (ctrl + X В меню выбираем No)
+* joe (ctrl K + Q В меню выбираем n)
 
 
