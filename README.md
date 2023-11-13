@@ -23,6 +23,8 @@
 * после перезагрузки данные остались
 *********
 * ![image](https://github.com/leraks/Linux/assets/67760549/15bb0450-13c6-462f-8212-a6589eddbeb2)
+* ping google
 * ![image](https://github.com/leraks/Linux/assets/67760549/7bae0f38-a559-4345-93ae-f00a70ec827f)
+* ping yandex
 
 
