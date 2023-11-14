@@ -111,6 +111,27 @@
 * ![image](https://github.com/leraks/Linux/assets/67760549/3ab32c0a-3637-4545-b301-cdcb4a2834bd)
   + с добавленным выводом hostname, clock и uptime
 
+## Part 10
+* ![image](https://github.com/leraks/Linux/assets/67760549/36419021-96d3-440f-9c2f-dcddcfc303a2)
+  + Име VBOX HARDDISK
+  + Размер 8gb
+  + количество секторов 8589934592
+  + 0 (не доконца понял но в команду free прописанно все по 0)
+
+## Part 11
+* ![image](https://github.com/leraks/Linux/assets/67760549/f872baa3-e641-4a61-8dfb-ba359a7dc9ca)
+  + размер раздела = 6352332 kl
+  + размер занятого пространства = 2929080 kl
+  + размер свободного пространства = 3079396 kl
+  + процент использования = 49%
+* ![image](https://github.com/leraks/Linux/assets/67760549/d9a5abd4-1f58-4302-959a-a4ecc7c8ae73)
+  + размер раздела = 6.1G
+  + размер занятого пространства = 2.8G
+  + размер свободного пространства = 3.0G
+  + процент использования = 49%
+* ![image](https://github.com/leraks/Linux/assets/67760549/a1b10924-9508-451f-a90e-e34ab37e3940)
+  + ext4 — журналируемая файловая система
+
 
 
 
