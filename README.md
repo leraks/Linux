@@ -102,5 +102,16 @@
   + pid процесса занимающего больше всего памяти = 1201
   + pid процесса, занимающего больше всего процессорного времени = 1
 **********
+* ![image](https://github.com/leraks/Linux/assets/67760549/f7983604-8b36-44c4-ba67-a212a788ba04)
+  + отсортированному по PID
+* ![image](https://github.com/leraks/Linux/assets/67760549/85d346ec-8de4-4466-8882-8757d84d141a)
+  + отфильтрованному для процесса sshd
+* ![image](https://github.com/leraks/Linux/assets/67760549/675f7442-6dce-48f1-a4f6-3bd0c7744c0e)
+  + с процессом syslog, найденным, используя поискю
+* ![image](https://github.com/leraks/Linux/assets/67760549/3ab32c0a-3637-4545-b301-cdcb4a2834bd)
+  + с добавленным выводом hostname, clock и uptime
+
+
+
 
 
