@@ -132,6 +132,15 @@
 * ![image](https://github.com/leraks/Linux/assets/67760549/a1b10924-9508-451f-a90e-e34ab37e3940)
   + ext4 — журналируемая файловая система
 
+##  Part 12
+* ![image](https://github.com/leraks/Linux/assets/67760549/8b8aba8b-df76-41ca-9c5f-020fac81ef83)
+  +  размер папок /home, /var, /var/log
+* ![image](https://github.com/leraks/Linux/assets/67760549/c039e4d9-c2f4-40d9-9228-ff3c52c365f8)
+  + размер папок /home, /var, /var/log
+*********
+* ![image](https://github.com/leraks/Linux/assets/67760549/6c58f10f-dfc6-452f-a83d-53b4a01e4e65)
+  +  размер всего содержимого в /var/log 
+
 
 
 
