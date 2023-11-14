@@ -139,7 +139,15 @@
   + размер папок /home, /var, /var/log
 *********
 * ![image](https://github.com/leraks/Linux/assets/67760549/6c58f10f-dfc6-452f-a83d-53b4a01e4e65)
-  +  размер всего содержимого в /var/log 
+  +  размер всего содержимого в /var/log
+  
+## Part 13
+* ![image](https://github.com/leraks/Linux/assets/67760549/50c0c2a5-68f5-445b-b485-24b17dfd2d60)
+  + размер папок /home/
+* ![image](https://github.com/leraks/Linux/assets/67760549/6443d7f1-b699-4903-8406-037bd36f7982)
+  + размер папок /var/
+* ![image](https://github.com/leraks/Linux/assets/67760549/b925b012-e4f5-402c-aa51-39c67b75712a)
+  + размер папок /var/
 
 
 
