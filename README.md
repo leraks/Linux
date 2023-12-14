@@ -148,6 +148,29 @@
   + размер папок /var/
 * ![image](https://github.com/leraks/Linux/assets/67760549/b925b012-e4f5-402c-aa51-39c67b75712a)
   + размер папок /var/
+  
+## Part 14
+* ![image](https://github.com/leraks/Linux/assets/67760549/eace90fc-dafd-4d32-83e2-20be68e68c37)
+  + /var/log/dmesg просмотр
+* ![image](https://github.com/leraks/Linux/assets/67760549/1314bc3d-f05c-4d53-b577-2ccfb2c7b5df)
+  + /var/log/syslog просмотр
+* ![image](https://github.com/leraks/Linux/assets/67760549/0018fa70-9789-4397-a648-dd7e32a2e435)
+  + /var/log/auth.log
+* ![image](https://github.com/leraks/Linux/assets/67760549/5d69b477-d0f7-44c1-a03b-58204a75f8f4)
+  + Перезапустить службу SSHd
+## Part 15
+* ![image](https://github.com/leraks/Linux/assets/67760549/417ab9c3-7fc2-4945-8316-45e53f2a583e)
+  + запуск команды uptime через каждые 2 минуты
+* ![image](https://github.com/leraks/Linux/assets/67760549/4b2f0971-6284-48de-bc08-bba5a471f0b5)
+  + список текущих заданий для CRON
+* ![image](https://github.com/leraks/Linux/assets/67760549/5ce23e9e-7947-41fe-aa9f-05b32ee998bb)
+  + Найти в системных журналах
+* ![image](https://github.com/leraks/Linux/assets/67760549/16b4bbfa-dc49-47b7-b396-7c5b01230b53)
+  +  списком текущих заданий для CRON после удаления
+
+
+
+
 
 
 
